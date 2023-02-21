@@ -1,3 +1,5 @@
+Link para a Landing Page já pronta: https://devleno.github.io/catalogo-de-carros/
+
 Conteúdo do repositório:
 - Arquivo HTML5
 - Arquivo CSS3
